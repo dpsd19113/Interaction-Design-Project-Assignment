@@ -2,7 +2,7 @@
 
 ### First and Last Name: Dimitris Raptis, Aggelos Tziallas, Dimitris Kanellopoulos
 ### University Registration Number: DPSD19113, DPSD19128, DPSD19142
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/dpsd19113
 
 # Introduction
 
