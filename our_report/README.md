@@ -1,7 +1,7 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
+### First and Last Name: Dimitris Raptis, Aggelos Tziallas, Dimitris Kanellopoulos
+### University Registration Number: DPSD19113, DPSD19128, DPSD19142
 ### GitHub Personal Profile: xxx
 
 # Introduction
@@ -10,6 +10,10 @@
 
 
 # 1st Deliverable
+Brief:
+Θα σχεδιάσουμε ένα ψηφιακό ρολόι το οποίο θα πληροφορεί τον χρήστη για την ώρα, την ημέρα, την ημερομηνία και την θερμοκρασία. 
+
+
 
 
 # 2nd Deliverable
