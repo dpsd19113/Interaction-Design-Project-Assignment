@@ -50,6 +50,13 @@ https://www.skroutz.gr/s/28625874/Xiaomi-%CE%A8%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CF
 Έπειτα κλείνει την συσκευή μέσω του κουμπιού.
 
 - Interface design (Outline interface components - Define each component's role, behaviour, relation to other) 
+- led οθόνη για να δείψνει τις ενδειξεις
+- καλώδια για τις συνδέσεις
+- αισθητήρας θερμότητας
+- αντιστάσεις
+- πλακέτα
+- κουμπιά ενεργοποιήσης/απενεργοποίησης
+- 
 
 # 3rd Deliverable 
 
