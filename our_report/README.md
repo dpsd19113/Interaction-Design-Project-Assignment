@@ -45,6 +45,8 @@ https://www.skroutz.gr/s/28625874/Xiaomi-%CE%A8%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CF
 -Βλέπει τις πληροφορίες που χρειάζεται
 -Απενεργοποίηση του ρολογιού
 
+-User Interaction (Plan and analyse new interaction behaviour based on the activities described on step 2.2) 
+
 
 # 3rd Deliverable 
 
