@@ -36,7 +36,7 @@ https://www.skroutz.gr/s/28625874/Xiaomi-%CE%A8%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CF
 
 
 # 2nd Deliverable
--Information architecture (outline the major information components/content and their organisation)
+- Information architecture (outline the major information components/content and their organisation)
 
 Αρχικά ο χρήστης ξυπνάει το πρωί σηκώνεται για να ετοιμαστεί. Βλέπει την ώρα και την ημερόμηνια στην ψηφιακή οθόνη του arduino. Για νο το ενεργοποιήσει ο χρήστης θα χρείαστεί να πατήσει το κουμπί ενεργοποίησης το ίδιο θα κάνει και για να το απενεργοποιήσει. Βλέπει την ώρα και την ημερόμηνια στην ψηφιακή οθόνη του arduino.  Τέλος το απενεργοποιεί μέχρι να το ξαναχρειαστεί.
 
@@ -45,11 +45,11 @@ https://www.skroutz.gr/s/28625874/Xiaomi-%CE%A8%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CF
 * Βλέπει τις πληροφορίες που χρειάζεται.
 * Απενεργοποίηση του ρολογιού.
 
--User Interaction (Plan and analyse new interaction behaviour based on the activities described on step 2.2) 
+- User Interaction (Plan and analyse new interaction behaviour based on the activities described on step 2.2) 
 Ο χρήστης πατάει το κουμπί για να ενεργοποιήσει την συσκευή και να δει τις απαραίτητες πληροφορίες.
 Έπειτα κλείνει την συσκευή μέσω του κουμπιού.
 
--Interface design (Outline interface components - Define each component's role, behaviour, relation to other) 
+- Interface design (Outline interface components - Define each component's role, behaviour, relation to other) 
 
 # 3rd Deliverable 
 
