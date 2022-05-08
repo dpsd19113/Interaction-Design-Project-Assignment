@@ -46,10 +46,12 @@ https://www.skroutz.gr/s/28625874/Xiaomi-%CE%A8%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CF
 * Απενεργοποίηση του ρολογιού.
 
  User Interaction (Plan and analyse new interaction behaviour based on the activities described on step 2.2) 
-Ο χρήστης πατάει το κουμπί για να ενεργοποιήσει την συσκευή και να δει τις απαραίτητες πληροφορίες.
-Έπειτα κλείνει την συσκευή μέσω του κουμπιού.
+ 
+- Ο χρήστης πατάει το κουμπί για να ενεργοποιήσει την συσκευή και να δει τις απαραίτητες πληροφορίες.
+- Έπειτα κλείνει την συσκευή μέσω του κουμπιού.
 
-- Interface design (Outline interface components - Define each component's role, behaviour, relation to other) 
+ Interface design (Outline interface components - Define each component's role, behaviour, relation to other) 
+ 
 - led οθόνη για να δείψνει τις ενδειξεις
 - καλώδια για τις συνδέσεις
 - αισθητήρας θερμότητας
