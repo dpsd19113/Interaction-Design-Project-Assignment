@@ -67,6 +67,8 @@ Scenarios-Storyboarding
 - Ο χρήστης ξαναπατάει το κουμπί ώστε να απενεργοποιηθεί η συσκευή
 
 - Prototyping
+
+
 ![prototype](https://github.com/dpsd19113/Interaction-Design-Project-Assignment/blob/main/prototype.jpg)
 
 # Conclusions
