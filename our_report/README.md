@@ -75,7 +75,7 @@ Prototyping
 
 
 # Sources
-[Arduino project](https://create.arduino.cc/projecthub/agxies/simple-information-system-for-beginners-72a4f4?ref=tag&ref_id=beginner&offset=8&fbclid=IwAR3z5vU6K4op5F2X2aDhM3e5IyitU6PJBHfgkAjBEYRHcUfiyoHeHCNDMho)
-[Tinkercad](https://www.tinkercad.com/)
-[Arduino](https://www.tinkercad.com/)
-[Arduino projects](https://create.arduino.cc/projecthub/projects/tags/beginner?page=1)
+- [Arduino project](https://create.arduino.cc/projecthub/agxies/simple-information-system-for-beginners-72a4f4?ref=tag&ref_id=beginner&offset=8&fbclid=IwAR3z5vU6K4op5F2X2aDhM3e5IyitU6PJBHfgkAjBEYRHcUfiyoHeHCNDMho)
+- [Tinkercad](https://www.tinkercad.com/)
+- [Arduino](https://www.tinkercad.com/)
+- [Arduino projects](https://create.arduino.cc/projecthub/projects/tags/beginner?page=1)
