@@ -66,7 +66,7 @@ Scenarios-Storyboarding
 - Η συσκευή δείχνει τις πληροφορίες στην LCD οθόνη
 - Ο χρήστης ξαναπατάει το κουμπί ώστε να απενεργοποιηθεί η συσκευή
 
-- Prototyping
+Prototyping
 
 
 ![prototype](https://github.com/dpsd19113/Interaction-Design-Project-Assignment/blob/main/prototype.jpg)
