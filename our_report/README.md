@@ -60,7 +60,14 @@ https://www.skroutz.gr/s/28625874/Xiaomi-%CE%A8%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CF
 - κουμπιά ενεργοποιήσης/απενεργοποίησης
 
 # 3rd Deliverable 
+Scenarios-Storyboarding
+- Ο χρήστης ενεργοποιεί την συσκευή πατώντας το κουμπί
+- Οι σένσορες αναγνωρίζουν την θερμοκρασία του χώρου την μέρα και την ώρα
+- Η συσκευή δείχνει τις πληροφορίες στην LCD οθόνη
+- Ο χρήστης ξαναπατάει το κουμπί ώστε να απενεργοποιηθεί η συσκευή
 
+Prototyping
+![prototype](https://github.com/dpsd19113/Interaction-Design-Project-Assignment/blob/main/prototype.jpg)
 
 # Conclusions
 
