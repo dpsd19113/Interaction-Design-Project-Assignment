@@ -70,7 +70,7 @@ Prototyping
 
 
 ![prototype](https://github.com/dpsd19113/Interaction-Design-Project-Assignment/blob/main/prototype.jpg)
-
+![arduino](https://github.com/dpsd19113/Interaction-Design-Project-Assignment/blob/main/arduino.jpg)
 # Conclusions
 
 
