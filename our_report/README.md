@@ -68,11 +68,10 @@ Scenarios-Storyboarding
 
 Prototyping
 
-
 ![prototype](https://github.com/dpsd19113/Interaction-Design-Project-Assignment/blob/main/prototype.jpg)
 ![arduino](https://github.com/dpsd19113/Interaction-Design-Project-Assignment/blob/main/arduino.jpg)
 # Conclusions
-
+Για να μπορέσουμε να πραγματοποιήσουμε το project που θέλαμε χρειαζόμασταν πολλόυς αισθητήρες που έίχαν πολύπλοκες συνδέσεις μεταξύ τους γι αυτό τον λόγο και δεν μπορέσαμε να επιτύχουμε τους στόχους μας ακριβώς όπως το θέλαμε. Αντιμετωπίσαμε αρκετά προβλήματα με τον κώδικα καθώς δεν μπορούσαμε να τον κάνουμε να λειτουργήσει με σωστό τρόπο. Επίσης είχαμε και ένα θέμα με το arduino καθώς δεν είχαμε τον σωστό αισθητήρα real time clock ώστε να γίνουν σωστά οι συνδέσεις.
 
 # Sources
 - [Arduino project](https://create.arduino.cc/projecthub/agxies/simple-information-system-for-beginners-72a4f4?ref=tag&ref_id=beginner&offset=8&fbclid=IwAR3z5vU6K4op5F2X2aDhM3e5IyitU6PJBHfgkAjBEYRHcUfiyoHeHCNDMho)
